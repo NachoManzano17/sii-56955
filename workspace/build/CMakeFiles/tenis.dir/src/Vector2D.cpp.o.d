@@ -1,7 +1,7 @@
 CMakeFiles/tenis.dir/src/Vector2D.cpp.o: \
- /home/sii/56955/sii-56955/workspace/src/Vector2D.cpp \
+ /home/nachomanzano/56955/sii-56955/workspace/src/Vector2D.cpp \
  /usr/include/stdc-predef.h \
- /home/sii/56955/sii-56955/workspace/include/Vector2D.h \
+ /home/nachomanzano/56955/sii-56955/workspace/include/Vector2D.h \
  /usr/include/c++/15/fstream /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

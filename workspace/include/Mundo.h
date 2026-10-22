@@ -33,6 +33,8 @@ public:
 	Plano fondo_dcho;
 	Raqueta jugador1;
 	Raqueta jugador2;
+	
+	int fd_tuberia;
 
 	int puntos1;
 	int puntos2;

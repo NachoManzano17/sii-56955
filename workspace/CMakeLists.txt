@@ -11,6 +11,10 @@ SET(COMMON_SRCS
     src/Vector2D.cpp
 )
 
+
+add_executable(logger src/logger.cpp)
+
+
 ADD_EXECUTABLE(tenis src/tenis.cpp ${COMMON_SRCS})
 
 TARGET_LINK_LIBRARIES(tenis glut GL GLU)

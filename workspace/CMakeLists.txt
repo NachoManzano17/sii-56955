@@ -14,6 +14,7 @@ SET(COMMON_SRCS
 
 add_executable(logger src/logger.cpp)
 
+add_executable(bot src/bot.cpp)
 
 ADD_EXECUTABLE(tenis src/tenis.cpp ${COMMON_SRCS})
 

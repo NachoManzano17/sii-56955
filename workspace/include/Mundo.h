@@ -7,6 +7,7 @@
 
 #include <vector>
 #include "Plano.h"
+#include "DatosMemCompartida.h"
 
 #if _MSC_VER > 1000
 #pragma once
@@ -35,6 +36,8 @@ public:
 	Raqueta jugador2;
 	
 	int fd_tuberia;
+	
+	DatosMemCompartida* datos_mem;
 
 	int puntos1;
 	int puntos2;
